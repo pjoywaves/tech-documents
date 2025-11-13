@@ -48,11 +48,12 @@ CSS 표준, 색상체계, Atomic Design, 프론트엔드 아키텍처 등 실무
 ---
 
 ## 🗂️ 폴더 구조
-TECT-DOCUMENTS/
+```
+tech-documents/
 ├─ TIL/
-│ └─ ...
-└─ README.md (현재 파일)
-
+│   └─ ...│
+└─ README.md (레포 설명)
+```
 
 ---
 

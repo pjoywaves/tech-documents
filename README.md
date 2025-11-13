@@ -1,4 +1,4 @@
-# 📘 TECT-DOCUMENTS
+# 📘 TECH-DOCUMENTS
 
 프론트엔드 개발과 관련된 다양한 기술들을 학습하며 정리한 **Technical Documents (TIL)** 저장소입니다.  
 CSS 표준, 색상체계, Atomic Design, 프론트엔드 아키텍처 등 실무 기반의 내용을 기록하고 공유합니다. ✨
